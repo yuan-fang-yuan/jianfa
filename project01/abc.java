@@ -1,2 +1,3 @@
-袁方园是好人。
-谢谢，你也是好人！
+public static void main(String[]args){
+        sout
+        }sadfasdfasdfasf
